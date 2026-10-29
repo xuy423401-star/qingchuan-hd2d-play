@@ -1,0 +1,180 @@
+{
+  "schemaVersion": 2,
+  "direction": "west",
+  "motion": "idle",
+  "file": "west-idle-48ea87ef.webp",
+  "cellSize": 512,
+  "columns": 8,
+  "rows": 3,
+  "frameCount": 24,
+  "gaitCycles": null,
+  "anchor": [
+    256,
+    457.333333
+  ],
+  "durationMs": 1750.0,
+  "sourceFrames0Based": [
+    65,
+    66,
+    68,
+    70,
+    72,
+    73,
+    75,
+    77,
+    79,
+    80,
+    82,
+    84,
+    86,
+    87,
+    89,
+    91,
+    93,
+    94,
+    96,
+    98,
+    100,
+    101,
+    103,
+    105
+  ],
+  "sourceFrameCount": 107,
+  "sourceFps": 24,
+  "sourceSha256": "d241e931beb6b352c2cc10d9418779674b3114c48871dc41a0cc9b232ff1ee78",
+  "translationsSourcePixels": [
+    [
+      0,
+      -1
+    ],
+    [
+      0,
+      -1
+    ],
+    [
+      0,
+      -1
+    ],
+    [
+      0,
+      -1
+    ],
+    [
+      0,
+      -1
+    ],
+    [
+      0,
+      -1
+    ],
+    [
+      0,
+      -1
+    ],
+    [
+      0,
+      -1
+    ],
+    [
+      0,
+      -1
+    ],
+    [
+      0,
+      -1
+    ],
+    [
+      0,
+      -1
+    ],
+    [
+      0,
+      -1
+    ],
+    [
+      0,
+      -1
+    ],
+    [
+      0,
+      -1
+    ],
+    [
+      0,
+      -1
+    ],
+    [
+      0,
+      -1
+    ],
+    [
+      0,
+      -1
+    ],
+    [
+      0,
+      -1
+    ],
+    [
+      0,
+      -1
+    ],
+    [
+      0,
+      -1
+    ],
+    [
+      0,
+      -1
+    ],
+    [
+      0,
+      -1
+    ],
+    [
+      0,
+      -1
+    ],
+    [
+      0,
+      -1
+    ]
+  ],
+  "backgroundRejectedFrames0Based": [
+    36,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60
+  ],
+  "uniqueFrames": 24,
+  "loop": {
+    "start": 65,
+    "length": 42
+  },
+  "suggestedLoop": {
+    "start": 61,
+    "length": 46
+  },
+  "registration": "head x and sole y; translation only; shared 2/3 scale",
+  "sourceHeadXRange": [
+    383.5,
+    385.0
+  ],
+  "sourceSoleYRange": [
+    686,
+    767
+  ],
+  "contentBounds": [
+    201,
+    61,
+    323,
+    458
+  ],
+  "reviewRequired": true
+}

@@ -1,0 +1,182 @@
+{
+  "schemaVersion": 2,
+  "direction": "north",
+  "motion": "idle",
+  "file": "north-idle-71223a6e.webp",
+  "cellSize": 512,
+  "columns": 8,
+  "rows": 3,
+  "frameCount": 24,
+  "gaitCycles": null,
+  "anchor": [
+    256,
+    457.333333
+  ],
+  "durationMs": 1041.6666666666667,
+  "sourceFrames0Based": [
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99,
+    100,
+    101,
+    102,
+    103,
+    104,
+    105
+  ],
+  "sourceFrameCount": 107,
+  "sourceFps": 24,
+  "sourceSha256": "6c7f61e6660ac76e0aa254a3a78a1aba668f4c2610217da10b0126caf4d2462d",
+  "translationsSourcePixels": [
+    [
+      0,
+      -1
+    ],
+    [
+      0,
+      -1
+    ],
+    [
+      -1,
+      -1
+    ],
+    [
+      0,
+      -1
+    ],
+    [
+      0,
+      -1
+    ],
+    [
+      0,
+      -1
+    ],
+    [
+      0,
+      -1
+    ],
+    [
+      0,
+      -1
+    ],
+    [
+      0,
+      -1
+    ],
+    [
+      0,
+      -1
+    ],
+    [
+      0,
+      -1
+    ],
+    [
+      0,
+      -1
+    ],
+    [
+      0,
+      -1
+    ],
+    [
+      0,
+      -1
+    ],
+    [
+      0,
+      -1
+    ],
+    [
+      0,
+      -1
+    ],
+    [
+      0,
+      -1
+    ],
+    [
+      0,
+      -1
+    ],
+    [
+      0,
+      -1
+    ],
+    [
+      0,
+      -1
+    ],
+    [
+      -1,
+      -1
+    ],
+    [
+      0,
+      -1
+    ],
+    [
+      0,
+      -1
+    ],
+    [
+      0,
+      -1
+    ]
+  ],
+  "backgroundRejectedFrames0Based": [
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81
+  ],
+  "uniqueFrames": 24,
+  "loop": {
+    "start": 82,
+    "length": 25
+  },
+  "suggestedLoop": {
+    "start": 0,
+    "length": 70
+  },
+  "registration": "head x and sole y; translation only; shared 2/3 scale",
+  "sourceHeadXRange": [
+    370.0,
+    385.0
+  ],
+  "sourceSoleYRange": [
+    687,
+    767
+  ],
+  "contentBounds": [
+    176,
+    65,
+    335,
+    458
+  ],
+  "reviewRequired": true
+}

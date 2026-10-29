@@ -1,0 +1,201 @@
+{
+  "schemaVersion": 2,
+  "direction": "west",
+  "motion": "walk",
+  "file": "west-walk-a844f0a9.webp",
+  "cellSize": 512,
+  "columns": 8,
+  "rows": 4,
+  "frameCount": 30,
+  "gaitCycles": 1,
+  "anchor": [
+    256,
+    457.333333
+  ],
+  "durationMs": 1250.0,
+  "sourceFrames0Based": [
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54
+  ],
+  "sourceFrameCount": 107,
+  "sourceFps": 24,
+  "sourceSha256": "2211dde278e713dbfc09683ad22c44553cbd23fcde68a417f52dbf75d7d3acfa",
+  "translationsSourcePixels": [
+    [
+      3,
+      3
+    ],
+    [
+      4,
+      1
+    ],
+    [
+      4,
+      1
+    ],
+    [
+      4,
+      1
+    ],
+    [
+      4,
+      1
+    ],
+    [
+      2,
+      -1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      0,
+      1
+    ],
+    [
+      0,
+      -1
+    ],
+    [
+      -1,
+      -1
+    ],
+    [
+      -1,
+      -1
+    ],
+    [
+      0,
+      -1
+    ],
+    [
+      0,
+      -1
+    ],
+    [
+      0,
+      -1
+    ],
+    [
+      2,
+      1
+    ],
+    [
+      3,
+      -1
+    ],
+    [
+      4,
+      -1
+    ],
+    [
+      4,
+      -1
+    ],
+    [
+      4,
+      -5
+    ],
+    [
+      3,
+      -3
+    ],
+    [
+      2,
+      -2
+    ],
+    [
+      1,
+      -3
+    ],
+    [
+      0,
+      -3
+    ],
+    [
+      0,
+      1
+    ],
+    [
+      -1,
+      5
+    ],
+    [
+      -1,
+      5
+    ],
+    [
+      0,
+      5
+    ],
+    [
+      0,
+      3
+    ],
+    [
+      1,
+      3
+    ],
+    [
+      2,
+      3
+    ]
+  ],
+  "backgroundRejectedFrames0Based": [],
+  "uniqueFrames": 30,
+  "loop": {
+    "start": 25,
+    "length": 30
+  },
+  "suggestedLoop": {
+    "start": 25,
+    "length": 30,
+    "seamMse": 2.458906419633422e-05,
+    "halfCycleMse": 0.010970196686685085
+  },
+  "registration": "head x and sole y; translation only; shared 2/3 scale",
+  "sourceHeadXRange": [
+    380.0,
+    385.0
+  ],
+  "sourceSoleYRange": [
+    681,
+    691
+  ],
+  "contentBounds": [
+    168,
+    58,
+    360,
+    459
+  ],
+  "reviewRequired": true
+}

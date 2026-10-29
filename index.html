@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#101b28" />
+    <meta name="description" content="晴川街区 HD-2D 城市探索游戏" />
+    <meta name="robots" content="noindex, nofollow" />
+    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%23e3bc83'/%3E%3Ctext x='32' y='46' text-anchor='middle' font-size='43'%3E%E6%99%B4%3C/text%3E%3C/svg%3E" />
+    <title>晴川街区 · HD-2D 城市漫游</title>
+    <script type="module" crossorigin src="./assets/index-DaTMgPk0.js"></script>
+    <link rel="stylesheet" crossorigin href="./assets/index-BVs8XPz8.css">
+  </head>
+  <body>
+    <div id="app">
+      <div id="scene" tabindex="0" aria-label="游戏画面，点击后使用 WASD 移动"></div>
+      <div class="vignette"></div>
+      <header class="topbar">
+        <div class="brand"><span class="brand-mark">晴</span><div><strong>晴川街区</strong><small>QINGCHUAN · EXPLORATION PROTOTYPE</small></div></div>
+        <div class="chapter">第一章 <span>在城市醒来</span></div>
+        <div class="clock"><span id="weather">☀ 晴朗</span><span id="time">08:30</span></div>
+      </header>
+      <div class="location"><span class="location-pin">◆</span><div><small>当前位置</small><strong id="location-name">中央街</strong></div></div>
+      <div class="life-hud" id="inventory" aria-label="金币和背包"></div>
+      <div class="goal" id="goal" aria-live="polite"></div>
+      <div class="hint" id="hint">街区西侧有社区花圃。靠近花圃按 <kbd>E</kbd> 播种。</div>
+      <div class="interaction" id="interaction"></div>
+      <div class="dialogue hidden" id="dialogue"><div class="dialogue-name" id="dialogue-name"></div><p id="dialogue-text"></p><span>按 E 或点击继续 ▸</span></div>
+      <div class="shop hidden" id="shop"><div class="shop-panel" role="dialog" aria-modal="true" aria-labelledby="shop-title">
+        <div class="shop-heading"><div><small>街角便利店 · 今日营业</small><h2 id="shop-title">晴川街区的第一笔生意</h2></div><button id="close-shop" class="shop-close" aria-label="关闭商店">×</button></div>
+        <p>买下花种，去社区花圃播种。花开后可以回来出售。</p>
+        <div class="shop-stock" id="shop-stock"></div>
+        <div class="shop-actions"><button id="buy-seed"><strong>购买花种</strong><span>花费 5 金币 · 获得 1 粒</span></button><button id="sell-flower"><strong>出售鲜花</strong><span>获得 12 金币 · 出售 1 朵</span></button></div>
+        <small class="shop-footnote">花圃约 30 秒成熟，离开地图或刷新页面也会继续生长。</small>
+      </div></div>
+      <div class="toast" id="toast" role="status" aria-live="polite"></div>
+      <footer class="hud"><div class="controls"><span><kbd>W</kbd><kbd>A</kbd><kbd>S</kbd><kbd>D</kbd> 移动</span><span><kbd>Shift</kbd> 奔跑</span><span><kbd>E</kbd> 互动</span><span><kbd>N</kbd> 昼夜切换</span><span><kbd>M</kbd> 天气</span></div><div class="status"><i></i> 单人探索原型 <span>v0.14</span></div></footer>
+      <div class="mobile-joystick" id="mobile-joystick" role="group" aria-label="八方向移动摇杆"><div class="joystick-ring"><div class="joystick-thumb"></div></div></div>
+      <div class="mobile-quick"><button id="mobile-night" type="button" aria-label="切换昼夜">昼夜</button><button id="mobile-weather" type="button" aria-label="切换天气">天气</button></div>
+      <button class="mobile-action" id="mobile-action" aria-label="互动">E<br><small>互动</small></button>
+      <div class="orientation-gate" id="orientation-gate"><div><strong>请横屏游玩</strong><p>旋转手机后，用左侧摇杆移动，右侧按钮互动。</p><button id="landscape-button" type="button">尝试进入横屏</button><small id="landscape-help">如果手机开启了方向锁，请先关闭方向锁。</small></div></div>
+      <div class="loading" id="loading"><span>晴川街区</span><small>城市正在苏醒…</small></div>
+    </div>
+  </body>
+</html>

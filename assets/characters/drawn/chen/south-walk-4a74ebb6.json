@@ -1,0 +1,171 @@
+{
+  "schemaVersion": 2,
+  "direction": "south",
+  "motion": "walk",
+  "file": "south-walk-4a74ebb6.webp",
+  "cellSize": 512,
+  "columns": 8,
+  "rows": 3,
+  "frameCount": 24,
+  "gaitCycles": 1,
+  "anchor": [
+    256,
+    457.333333
+  ],
+  "durationMs": 1000.0,
+  "sourceFrames0Based": [
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51
+  ],
+  "sourceFrameCount": 107,
+  "sourceFps": 24,
+  "sourceSha256": "f7da564cc4919e1115c4f59f5b18b3dffe9d4c939d999031b03a719d3f148397",
+  "translationsSourcePixels": [
+    [
+      5,
+      -7
+    ],
+    [
+      3,
+      -13
+    ],
+    [
+      -1,
+      -15
+    ],
+    [
+      -4,
+      -17
+    ],
+    [
+      -6,
+      -23
+    ],
+    [
+      -8,
+      -19
+    ],
+    [
+      -10,
+      -11
+    ],
+    [
+      -10,
+      -5
+    ],
+    [
+      -9,
+      -1
+    ],
+    [
+      -7,
+      -9
+    ],
+    [
+      -5,
+      -19
+    ],
+    [
+      -4,
+      -11
+    ],
+    [
+      -2,
+      -7
+    ],
+    [
+      0,
+      -17
+    ],
+    [
+      4,
+      -19
+    ],
+    [
+      7,
+      -19
+    ],
+    [
+      10,
+      -27
+    ],
+    [
+      12,
+      -27
+    ],
+    [
+      14,
+      -19
+    ],
+    [
+      14,
+      -13
+    ],
+    [
+      13,
+      -9
+    ],
+    [
+      12,
+      -5
+    ],
+    [
+      10,
+      -17
+    ],
+    [
+      8,
+      -9
+    ]
+  ],
+  "backgroundRejectedFrames0Based": [],
+  "uniqueFrames": 24,
+  "loop": {
+    "start": 28,
+    "length": 24
+  },
+  "suggestedLoop": {
+    "start": 71,
+    "length": 25,
+    "seamMse": 0.00014064053539186716,
+    "halfCycleMse": 0.01121324673295021
+  },
+  "registration": "head x and sole y; translation only; shared 2/3 scale",
+  "sourceHeadXRange": [
+    369.0,
+    394.0
+  ],
+  "sourceSoleYRange": [
+    687,
+    715
+  ],
+  "contentBounds": [
+    130,
+    51,
+    385,
+    458
+  ],
+  "reviewRequired": true
+}

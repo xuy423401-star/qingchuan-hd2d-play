@@ -1,0 +1,1544 @@
+{
+  "schemaVersion": 2,
+  "id": "yuan",
+  "name": "阿远",
+  "directions": {
+    "south": {
+      "idle": {
+        "schemaVersion": 2,
+        "direction": "south",
+        "motion": "idle",
+        "file": "south-idle-9762f49e.webp",
+        "cellSize": 512,
+        "columns": 8,
+        "rows": 3,
+        "frameCount": 24,
+        "gaitCycles": null,
+        "anchor": [
+          256,
+          457.333333
+        ],
+        "durationMs": 1750.0,
+        "sourceFrames0Based": [
+          65,
+          66,
+          68,
+          70,
+          72,
+          73,
+          75,
+          77,
+          79,
+          80,
+          82,
+          84,
+          86,
+          87,
+          89,
+          91,
+          93,
+          94,
+          96,
+          98,
+          100,
+          101,
+          103,
+          105
+        ],
+        "sourceFrameCount": 107,
+        "sourceFps": 24,
+        "sourceSha256": "fb776c6240450613701ceec5962383809b60bea2f1538383b5635f647ed98488",
+        "translationsSourcePixels": [
+          [
+            0,
+            -1
+          ],
+          [
+            0,
+            -1
+          ],
+          [
+            0,
+            -1
+          ],
+          [
+            0,
+            -1
+          ],
+          [
+            0,
+            -1
+          ],
+          [
+            0,
+            -1
+          ],
+          [
+            0,
+            -1
+          ],
+          [
+            0,
+            -1
+          ],
+          [
+            0,
+            -1
+          ],
+          [
+            0,
+            -1
+          ],
+          [
+            0,
+            -1
+          ],
+          [
+            0,
+            -1
+          ],
+          [
+            0,
+            -1
+          ],
+          [
+            0,
+            -1
+          ],
+          [
+            0,
+            -1
+          ],
+          [
+            0,
+            -1
+          ],
+          [
+            0,
+            -1
+          ],
+          [
+            0,
+            -1
+          ],
+          [
+            0,
+            -1
+          ],
+          [
+            0,
+            -1
+          ],
+          [
+            0,
+            -1
+          ],
+          [
+            0,
+            -1
+          ],
+          [
+            0,
+            -1
+          ],
+          [
+            0,
+            -1
+          ]
+        ],
+        "backgroundRejectedFrames0Based": [
+          38,
+          39,
+          40,
+          41,
+          42,
+          43,
+          44,
+          45,
+          46,
+          47,
+          48,
+          49
+        ],
+        "uniqueFrames": 24,
+        "loop": {
+          "start": 65,
+          "length": 42
+        },
+        "suggestedLoop": {
+          "start": 50,
+          "length": 57
+        },
+        "registration": "head x and sole y; translation only; shared 2/3 scale",
+        "sourceHeadXRange": [
+          383.5,
+          385.0
+        ],
+        "sourceSoleYRange": [
+          686,
+          767
+        ],
+        "contentBounds": [
+          184,
+          63,
+          333,
+          458
+        ],
+        "reviewRequired": true
+      },
+      "walk": {
+        "schemaVersion": 2,
+        "direction": "south",
+        "motion": "walk",
+        "file": "south-walk-f8291674.webp",
+        "cellSize": 512,
+        "columns": 8,
+        "rows": 4,
+        "frameCount": 32,
+        "gaitCycles": 1,
+        "anchor": [
+          256,
+          457.333333
+        ],
+        "durationMs": 1333.3333333333333,
+        "sourceFrames0Based": [
+          52,
+          53,
+          54,
+          55,
+          56,
+          57,
+          58,
+          59,
+          60,
+          61,
+          62,
+          63,
+          64,
+          65,
+          66,
+          67,
+          68,
+          69,
+          70,
+          71,
+          72,
+          73,
+          74,
+          75,
+          76,
+          77,
+          78,
+          79,
+          80,
+          81,
+          82,
+          83
+        ],
+        "sourceFrameCount": 107,
+        "sourceFps": 24,
+        "sourceSha256": "1b4dafec09d72c7c98bfc294fef29fc91f8181f6d8517df841fb1f424bc55d4e",
+        "translationsSourcePixels": [
+          [
+            9,
+            -17
+          ],
+          [
+            9,
+            -13
+          ],
+          [
+            8,
+            -9
+          ],
+          [
+            8,
+            -5
+          ],
+          [
+            7,
+            -1
+          ],
+          [
+            6,
+            -7
+          ],
+          [
+            5,
+            -9
+          ],
+          [
+            4,
+            -7
+          ],
+          [
+            3,
+            -9
+          ],
+          [
+            2,
+            -11
+          ],
+          [
+            0,
+            -15
+          ],
+          [
+            -1,
+            -17
+          ],
+          [
+            -3,
+            -21
+          ],
+          [
+            -4,
+            -23
+          ],
+          [
+            -6,
+            -21
+          ],
+          [
+            -7,
+            -17
+          ],
+          [
+            -7,
+            -11
+          ],
+          [
+            -7,
+            -9
+          ],
+          [
+            -6,
+            -3
+          ],
+          [
+            -5,
+            -1
+          ],
+          [
+            -4,
+            -9
+          ],
+          [
+            -4,
+            -9
+          ],
+          [
+            -3,
+            -9
+          ],
+          [
+            -2,
+            -11
+          ],
+          [
+            -1,
+            -15
+          ],
+          [
+            1,
+            -17
+          ],
+          [
+            3,
+            -19
+          ],
+          [
+            4,
+            -21
+          ],
+          [
+            6,
+            -23
+          ],
+          [
+            7,
+            -23
+          ],
+          [
+            9,
+            -18
+          ],
+          [
+            9,
+            -17
+          ]
+        ],
+        "backgroundRejectedFrames0Based": [],
+        "uniqueFrames": 32,
+        "loop": {
+          "start": 52,
+          "length": 32
+        },
+        "suggestedLoop": {
+          "start": 52,
+          "length": 31,
+          "seamMse": 3.5791734262602404e-05,
+          "halfCycleMse": 0.018861055374145508
+        },
+        "registration": "head x and sole y; translation only; shared 2/3 scale",
+        "sourceHeadXRange": [
+          375.0,
+          391.0
+        ],
+        "sourceSoleYRange": [
+          685,
+          709
+        ],
+        "contentBounds": [
+          175,
+          55,
+          341,
+          458
+        ],
+        "reviewRequired": true
+      }
+    },
+    "west": {
+      "idle": {
+        "schemaVersion": 2,
+        "direction": "west",
+        "motion": "idle",
+        "file": "west-idle-da21c211.webp",
+        "cellSize": 512,
+        "columns": 8,
+        "rows": 3,
+        "frameCount": 24,
+        "gaitCycles": null,
+        "anchor": [
+          256,
+          457.333333
+        ],
+        "durationMs": 1458.3333333333333,
+        "sourceFrames0Based": [
+          72,
+          73,
+          74,
+          76,
+          77,
+          79,
+          80,
+          82,
+          83,
+          85,
+          86,
+          88,
+          89,
+          90,
+          92,
+          93,
+          95,
+          96,
+          98,
+          99,
+          101,
+          102,
+          104,
+          105
+        ],
+        "sourceFrameCount": 107,
+        "sourceFps": 24,
+        "sourceSha256": "53fcb29adb937e6e31ea5ed5c31b4ec8f4b60143a5950c75f845b4dca49b3ac9",
+        "translationsSourcePixels": [
+          [
+            0,
+            -1
+          ],
+          [
+            0,
+            -1
+          ],
+          [
+            0,
+            -1
+          ],
+          [
+            0,
+            -1
+          ],
+          [
+            0,
+            -1
+          ],
+          [
+            0,
+            -1
+          ],
+          [
+            0,
+            -1
+          ],
+          [
+            0,
+            -1
+          ],
+          [
+            0,
+            -1
+          ],
+          [
+            0,
+            -1
+          ],
+          [
+            0,
+            -1
+          ],
+          [
+            0,
+            -1
+          ],
+          [
+            0,
+            -1
+          ],
+          [
+            0,
+            -1
+          ],
+          [
+            0,
+            -1
+          ],
+          [
+            0,
+            -1
+          ],
+          [
+            0,
+            -1
+          ],
+          [
+            0,
+            -1
+          ],
+          [
+            0,
+            -1
+          ],
+          [
+            0,
+            -1
+          ],
+          [
+            0,
+            -1
+          ],
+          [
+            0,
+            -1
+          ],
+          [
+            0,
+            -1
+          ],
+          [
+            0,
+            -1
+          ]
+        ],
+        "backgroundRejectedFrames0Based": [],
+        "uniqueFrames": 24,
+        "loop": {
+          "start": 72,
+          "length": 35
+        },
+        "suggestedLoop": {
+          "start": 0,
+          "length": 107
+        },
+        "registration": "head x and sole y; translation only; shared 2/3 scale",
+        "sourceHeadXRange": [
+          381.0,
+          384.0
+        ],
+        "sourceSoleYRange": [
+          685,
+          696
+        ],
+        "contentBounds": [
+          206,
+          56,
+          354,
+          458
+        ],
+        "reviewRequired": true
+      },
+      "walk": {
+        "schemaVersion": 2,
+        "direction": "west",
+        "motion": "walk",
+        "file": "west-walk-2306199b.webp",
+        "cellSize": 512,
+        "columns": 8,
+        "rows": 4,
+        "frameCount": 32,
+        "gaitCycles": 1,
+        "anchor": [
+          256,
+          457.333333
+        ],
+        "durationMs": 1500.0,
+        "sourceFrames0Based": [
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          35,
+          36,
+          37,
+          38,
+          39,
+          40,
+          41,
+          42
+        ],
+        "sourceFrameCount": 107,
+        "sourceFps": 24,
+        "sourceSha256": "5ace35caabe7f8a1885ff9c9fb00b7029a1fc6bb50624caa59c70c10c94e43da",
+        "translationsSourcePixels": [
+          [
+            0,
+            1
+          ],
+          [
+            1,
+            -1
+          ],
+          [
+            2,
+            1
+          ],
+          [
+            3,
+            -1
+          ],
+          [
+            4,
+            -1
+          ],
+          [
+            4,
+            -1
+          ],
+          [
+            3,
+            2
+          ],
+          [
+            3,
+            3
+          ],
+          [
+            1,
+            1
+          ],
+          [
+            0,
+            3
+          ],
+          [
+            -1,
+            2
+          ],
+          [
+            -1,
+            3
+          ],
+          [
+            -1,
+            3
+          ],
+          [
+            -1,
+            3
+          ],
+          [
+            0,
+            3
+          ],
+          [
+            0,
+            3
+          ],
+          [
+            1,
+            2
+          ],
+          [
+            2,
+            2
+          ],
+          [
+            2,
+            1
+          ],
+          [
+            3,
+            1
+          ],
+          [
+            3,
+            1
+          ],
+          [
+            4,
+            -1
+          ],
+          [
+            3,
+            -1
+          ],
+          [
+            3,
+            -1
+          ],
+          [
+            1,
+            -1
+          ],
+          [
+            0,
+            -1
+          ],
+          [
+            -1,
+            -1
+          ],
+          [
+            -1,
+            -1
+          ],
+          [
+            -1,
+            -1
+          ],
+          [
+            -1,
+            -1
+          ],
+          [
+            -1,
+            -1
+          ],
+          [
+            0,
+            -1
+          ]
+        ],
+        "backgroundRejectedFrames0Based": [],
+        "uniqueFrames": 32,
+        "loop": {
+          "start": 8,
+          "length": 36
+        },
+        "suggestedLoop": {
+          "start": 61,
+          "length": 35,
+          "seamMse": 7.689720223424956e-05,
+          "halfCycleMse": 0.011252534575760365
+        },
+        "registration": "head x and sole y; translation only; shared 2/3 scale",
+        "sourceHeadXRange": [
+          380.0,
+          385.0
+        ],
+        "sourceSoleYRange": [
+          683,
+          687
+        ],
+        "contentBounds": [
+          144,
+          55,
+          361,
+          459
+        ],
+        "reviewRequired": true
+      }
+    },
+    "north": {
+      "idle": {
+        "schemaVersion": 2,
+        "direction": "north",
+        "motion": "idle",
+        "file": "north-idle-10c25088.webp",
+        "cellSize": 512,
+        "columns": 8,
+        "rows": 3,
+        "frameCount": 24,
+        "gaitCycles": null,
+        "anchor": [
+          256,
+          457.333333
+        ],
+        "durationMs": 4458.333333333333,
+        "sourceFrames0Based": [
+          0,
+          4,
+          8,
+          13,
+          17,
+          22,
+          26,
+          31,
+          35,
+          40,
+          44,
+          49,
+          53,
+          57,
+          62,
+          66,
+          71,
+          75,
+          80,
+          84,
+          89,
+          93,
+          98,
+          102
+        ],
+        "sourceFrameCount": 107,
+        "sourceFps": 24,
+        "sourceSha256": "9ff87fac490f8be66ecf3c24664b8db19c5abde6327647bf921b4d012ed7d9b9",
+        "translationsSourcePixels": [
+          [
+            0,
+            -1
+          ],
+          [
+            0,
+            -1
+          ],
+          [
+            0,
+            -3
+          ],
+          [
+            0,
+            -7
+          ],
+          [
+            0,
+            -9
+          ],
+          [
+            0,
+            -11
+          ],
+          [
+            0,
+            -13
+          ],
+          [
+            0,
+            -15
+          ],
+          [
+            0,
+            -17
+          ],
+          [
+            0,
+            -21
+          ],
+          [
+            0,
+            -23
+          ],
+          [
+            0,
+            -25
+          ],
+          [
+            1,
+            -27
+          ],
+          [
+            1,
+            -29
+          ],
+          [
+            1,
+            -33
+          ],
+          [
+            0,
+            -33
+          ],
+          [
+            1,
+            -37
+          ],
+          [
+            0,
+            -39
+          ],
+          [
+            1,
+            -41
+          ],
+          [
+            0,
+            -43
+          ],
+          [
+            0,
+            -47
+          ],
+          [
+            0,
+            -49
+          ],
+          [
+            0,
+            -51
+          ],
+          [
+            0,
+            -53
+          ]
+        ],
+        "backgroundRejectedFrames0Based": [],
+        "uniqueFrames": 24,
+        "loop": {
+          "start": 0,
+          "length": 107
+        },
+        "suggestedLoop": {
+          "start": 0,
+          "length": 107
+        },
+        "registration": "head x and sole y; translation only; shared 2/3 scale",
+        "sourceHeadXRange": [
+          383.0,
+          384.0
+        ],
+        "sourceSoleYRange": [
+          687,
+          741
+        ],
+        "contentBounds": [
+          168,
+          9,
+          339,
+          458
+        ],
+        "reviewRequired": true
+      },
+      "walk": {
+        "schemaVersion": 2,
+        "direction": "north",
+        "motion": "walk",
+        "file": "north-walk-e9fbfc1b.webp",
+        "cellSize": 512,
+        "columns": 8,
+        "rows": 4,
+        "frameCount": 28,
+        "gaitCycles": 1,
+        "anchor": [
+          256,
+          457.333333
+        ],
+        "durationMs": 1166.6666666666667,
+        "sourceFrames0Based": [
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35
+        ],
+        "sourceFrameCount": 107,
+        "sourceFps": 24,
+        "sourceSha256": "3db0fe70b69078a4e5009db43d0cf92f294be55aade108ec45ab1b256ca096d4",
+        "translationsSourcePixels": [
+          [
+            0,
+            -5
+          ],
+          [
+            1,
+            -7
+          ],
+          [
+            2,
+            -9
+          ],
+          [
+            3,
+            -9
+          ],
+          [
+            4,
+            -11
+          ],
+          [
+            4,
+            -11
+          ],
+          [
+            6,
+            -11
+          ],
+          [
+            7,
+            -11
+          ],
+          [
+            8,
+            -13
+          ],
+          [
+            9,
+            -15
+          ],
+          [
+            11,
+            -21
+          ],
+          [
+            12,
+            -23
+          ],
+          [
+            12,
+            -23
+          ],
+          [
+            12,
+            -21
+          ],
+          [
+            12,
+            -13
+          ],
+          [
+            11,
+            -11
+          ],
+          [
+            10,
+            -7
+          ],
+          [
+            9,
+            -5
+          ],
+          [
+            7,
+            -1
+          ],
+          [
+            6,
+            -1
+          ],
+          [
+            4,
+            -3
+          ],
+          [
+            3,
+            -5
+          ],
+          [
+            1,
+            -9
+          ],
+          [
+            0,
+            -9
+          ],
+          [
+            -1,
+            -9
+          ],
+          [
+            -3,
+            -9
+          ],
+          [
+            -5,
+            -11
+          ],
+          [
+            -5,
+            -13
+          ]
+        ],
+        "backgroundRejectedFrames0Based": [],
+        "uniqueFrames": 28,
+        "loop": {
+          "start": 8,
+          "length": 28
+        },
+        "suggestedLoop": {
+          "start": 39,
+          "length": 37,
+          "seamMse": 3.973050479544327e-05,
+          "halfCycleMse": 0.016162419691681862
+        },
+        "registration": "head x and sole y; translation only; shared 2/3 scale",
+        "sourceHeadXRange": [
+          372.0,
+          392.0
+        ],
+        "sourceSoleYRange": [
+          685,
+          709
+        ],
+        "contentBounds": [
+          174,
+          59,
+          333,
+          458
+        ],
+        "reviewRequired": true
+      }
+    },
+    "east": {
+      "idle": {
+        "schemaVersion": 2,
+        "direction": "east",
+        "motion": "idle",
+        "file": "east-idle-bae571b9.webp",
+        "cellSize": 512,
+        "columns": 8,
+        "rows": 3,
+        "frameCount": 24,
+        "gaitCycles": null,
+        "anchor": [
+          256,
+          457.333333
+        ],
+        "durationMs": 1750.0,
+        "sourceFrames0Based": [
+          65,
+          66,
+          68,
+          70,
+          72,
+          73,
+          75,
+          77,
+          79,
+          80,
+          82,
+          84,
+          86,
+          87,
+          89,
+          91,
+          93,
+          94,
+          96,
+          98,
+          100,
+          101,
+          103,
+          105
+        ],
+        "sourceFrameCount": 107,
+        "sourceFps": 24,
+        "sourceSha256": "3086cb9e577458215c44ce7090ab07012a6c9b33c7615fad81eff131c4562f48",
+        "translationsSourcePixels": [
+          [
+            0,
+            1
+          ],
+          [
+            0,
+            1
+          ],
+          [
+            0,
+            1
+          ],
+          [
+            0,
+            1
+          ],
+          [
+            0,
+            1
+          ],
+          [
+            0,
+            1
+          ],
+          [
+            0,
+            1
+          ],
+          [
+            0,
+            1
+          ],
+          [
+            0,
+            1
+          ],
+          [
+            0,
+            1
+          ],
+          [
+            0,
+            1
+          ],
+          [
+            0,
+            1
+          ],
+          [
+            0,
+            1
+          ],
+          [
+            0,
+            1
+          ],
+          [
+            0,
+            1
+          ],
+          [
+            0,
+            1
+          ],
+          [
+            0,
+            1
+          ],
+          [
+            0,
+            1
+          ],
+          [
+            0,
+            1
+          ],
+          [
+            0,
+            1
+          ],
+          [
+            0,
+            1
+          ],
+          [
+            0,
+            1
+          ],
+          [
+            0,
+            1
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "backgroundRejectedFrames0Based": [],
+        "uniqueFrames": 24,
+        "loop": {
+          "start": 65,
+          "length": 42
+        },
+        "suggestedLoop": {
+          "start": 0,
+          "length": 107
+        },
+        "registration": "head x and sole y; translation only; shared 2/3 scale",
+        "sourceHeadXRange": [
+          381.0,
+          384.0
+        ],
+        "sourceSoleYRange": [
+          685,
+          693
+        ],
+        "contentBounds": [
+          161,
+          55,
+          304,
+          458
+        ],
+        "reviewRequired": true
+      },
+      "walk": {
+        "schemaVersion": 2,
+        "direction": "east",
+        "motion": "walk",
+        "file": "east-walk-e07de92c.webp",
+        "cellSize": 512,
+        "columns": 8,
+        "rows": 4,
+        "frameCount": 32,
+        "gaitCycles": 1,
+        "anchor": [
+          256,
+          457.333333
+        ],
+        "durationMs": 1333.3333333333333,
+        "sourceFrames0Based": [
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          39,
+          40,
+          41,
+          42,
+          43
+        ],
+        "sourceFrameCount": 107,
+        "sourceFps": 24,
+        "sourceSha256": "080dbcf7b8d489340cb72481bc225cc756e47becd186ce636a997b0ae436fa68",
+        "translationsSourcePixels": [
+          [
+            1,
+            5
+          ],
+          [
+            1,
+            5
+          ],
+          [
+            1,
+            7
+          ],
+          [
+            1,
+            7
+          ],
+          [
+            1,
+            9
+          ],
+          [
+            0,
+            11
+          ],
+          [
+            0,
+            13
+          ],
+          [
+            0,
+            13
+          ],
+          [
+            0,
+            11
+          ],
+          [
+            0,
+            9
+          ],
+          [
+            0,
+            3
+          ],
+          [
+            0,
+            3
+          ],
+          [
+            0,
+            5
+          ],
+          [
+            0,
+            7
+          ],
+          [
+            0,
+            5
+          ],
+          [
+            0,
+            3
+          ],
+          [
+            0,
+            3
+          ],
+          [
+            0,
+            3
+          ],
+          [
+            -1,
+            -1
+          ],
+          [
+            -1,
+            -3
+          ],
+          [
+            -1,
+            -3
+          ],
+          [
+            -1,
+            -3
+          ],
+          [
+            -1,
+            -1
+          ],
+          [
+            -1,
+            -1
+          ],
+          [
+            0,
+            -1
+          ],
+          [
+            0,
+            -1
+          ],
+          [
+            1,
+            1
+          ],
+          [
+            1,
+            1
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            5
+          ],
+          [
+            1,
+            5
+          ]
+        ],
+        "backgroundRejectedFrames0Based": [],
+        "uniqueFrames": 32,
+        "loop": {
+          "start": 12,
+          "length": 32
+        },
+        "suggestedLoop": {
+          "start": 44,
+          "length": 33,
+          "seamMse": 8.373022865271196e-05,
+          "halfCycleMse": 0.018569940701127052
+        },
+        "registration": "head x and sole y; translation only; shared 2/3 scale",
+        "sourceHeadXRange": [
+          383.0,
+          385.0
+        ],
+        "sourceSoleYRange": [
+          673,
+          689
+        ],
+        "contentBounds": [
+          157,
+          54,
+          361,
+          459
+        ],
+        "reviewRequired": true
+      }
+    }
+  },
+  "requiredDirections": [
+    "south",
+    "west",
+    "north",
+    "east"
+  ],
+  "requiredMotions": [
+    "idle",
+    "walk"
+  ],
+  "cellSize": 512,
+  "anchor": [
+    256,
+    457.333333
+  ],
+  "exportedAt": "2026-10-25T23:27:56+00:00"
+}

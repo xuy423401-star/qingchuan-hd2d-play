@@ -1,0 +1,169 @@
+{
+  "schemaVersion": 2,
+  "direction": "north",
+  "motion": "idle",
+  "file": "north-idle-10c25088.webp",
+  "cellSize": 512,
+  "columns": 8,
+  "rows": 3,
+  "frameCount": 24,
+  "gaitCycles": null,
+  "anchor": [
+    256,
+    457.333333
+  ],
+  "durationMs": 4458.333333333333,
+  "sourceFrames0Based": [
+    0,
+    4,
+    8,
+    13,
+    17,
+    22,
+    26,
+    31,
+    35,
+    40,
+    44,
+    49,
+    53,
+    57,
+    62,
+    66,
+    71,
+    75,
+    80,
+    84,
+    89,
+    93,
+    98,
+    102
+  ],
+  "sourceFrameCount": 107,
+  "sourceFps": 24,
+  "sourceSha256": "9ff87fac490f8be66ecf3c24664b8db19c5abde6327647bf921b4d012ed7d9b9",
+  "translationsSourcePixels": [
+    [
+      0,
+      -1
+    ],
+    [
+      0,
+      -1
+    ],
+    [
+      0,
+      -3
+    ],
+    [
+      0,
+      -7
+    ],
+    [
+      0,
+      -9
+    ],
+    [
+      0,
+      -11
+    ],
+    [
+      0,
+      -13
+    ],
+    [
+      0,
+      -15
+    ],
+    [
+      0,
+      -17
+    ],
+    [
+      0,
+      -21
+    ],
+    [
+      0,
+      -23
+    ],
+    [
+      0,
+      -25
+    ],
+    [
+      1,
+      -27
+    ],
+    [
+      1,
+      -29
+    ],
+    [
+      1,
+      -33
+    ],
+    [
+      0,
+      -33
+    ],
+    [
+      1,
+      -37
+    ],
+    [
+      0,
+      -39
+    ],
+    [
+      1,
+      -41
+    ],
+    [
+      0,
+      -43
+    ],
+    [
+      0,
+      -47
+    ],
+    [
+      0,
+      -49
+    ],
+    [
+      0,
+      -51
+    ],
+    [
+      0,
+      -53
+    ]
+  ],
+  "backgroundRejectedFrames0Based": [],
+  "uniqueFrames": 24,
+  "loop": {
+    "start": 0,
+    "length": 107
+  },
+  "suggestedLoop": {
+    "start": 0,
+    "length": 107
+  },
+  "registration": "head x and sole y; translation only; shared 2/3 scale",
+  "sourceHeadXRange": [
+    383.0,
+    384.0
+  ],
+  "sourceSoleYRange": [
+    687,
+    741
+  ],
+  "contentBounds": [
+    168,
+    9,
+    339,
+    458
+  ],
+  "reviewRequired": true
+}

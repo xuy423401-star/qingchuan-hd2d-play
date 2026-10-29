@@ -1,0 +1,16 @@
+{
+  "barista": "barista",
+  "manager": "manager",
+  "doctor": "doctor",
+  "reader": "reader",
+  "mika": "mika",
+  "volunteer": "volunteer",
+  "neighbor": "neighbor",
+  "laundry_neighbor": "laundry-neighbor",
+  "librarian": "librarian",
+  "chen": "chen",
+  "yuan": "yuan",
+  "guard": "guard",
+  "courier": "courier",
+  "nurse": "nurse"
+}

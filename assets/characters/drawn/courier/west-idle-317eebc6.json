@@ -1,0 +1,194 @@
+{
+  "schemaVersion": 2,
+  "direction": "west",
+  "motion": "idle",
+  "file": "west-idle-317eebc6.webp",
+  "cellSize": 512,
+  "columns": 8,
+  "rows": 3,
+  "frameCount": 24,
+  "gaitCycles": null,
+  "anchor": [
+    256,
+    457.333333
+  ],
+  "durationMs": 1750.0,
+  "sourceFrames0Based": [
+    65,
+    66,
+    68,
+    70,
+    72,
+    73,
+    75,
+    77,
+    79,
+    80,
+    82,
+    84,
+    86,
+    87,
+    89,
+    91,
+    93,
+    94,
+    96,
+    98,
+    100,
+    101,
+    103,
+    105
+  ],
+  "sourceFrameCount": 107,
+  "sourceFps": 24,
+  "sourceSha256": "97525830ea07e1fa64272a76ff11a84af2886d7ed08b94f8afcdb29f6afea5cc",
+  "translationsSourcePixels": [
+    [
+      6,
+      -1
+    ],
+    [
+      4,
+      -1
+    ],
+    [
+      0,
+      -1
+    ],
+    [
+      0,
+      -1
+    ],
+    [
+      0,
+      -1
+    ],
+    [
+      0,
+      -1
+    ],
+    [
+      0,
+      -1
+    ],
+    [
+      0,
+      -1
+    ],
+    [
+      0,
+      -1
+    ],
+    [
+      0,
+      -1
+    ],
+    [
+      0,
+      -1
+    ],
+    [
+      0,
+      -1
+    ],
+    [
+      0,
+      -1
+    ],
+    [
+      0,
+      -1
+    ],
+    [
+      0,
+      -1
+    ],
+    [
+      0,
+      -1
+    ],
+    [
+      0,
+      -1
+    ],
+    [
+      1,
+      -1
+    ],
+    [
+      1,
+      -1
+    ],
+    [
+      0,
+      -1
+    ],
+    [
+      1,
+      -1
+    ],
+    [
+      1,
+      -1
+    ],
+    [
+      0,
+      -1
+    ],
+    [
+      1,
+      -1
+    ]
+  ],
+  "backgroundRejectedFrames0Based": [
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    53,
+    54,
+    62,
+    63,
+    64
+  ],
+  "uniqueFrames": 24,
+  "loop": {
+    "start": 65,
+    "length": 42
+  },
+  "suggestedLoop": {
+    "start": 65,
+    "length": 42
+  },
+  "registration": "head x and sole y; translation only; shared 2/3 scale",
+  "sourceHeadXRange": [
+    374.0,
+    384.0
+  ],
+  "sourceSoleYRange": [
+    687,
+    767
+  ],
+  "contentBounds": [
+    159,
+    59,
+    377,
+    458
+  ],
+  "reviewRequired": true
+}

@@ -1,0 +1,211 @@
+{
+  "schemaVersion": 2,
+  "direction": "west",
+  "motion": "walk",
+  "file": "west-walk-f996785e.webp",
+  "cellSize": 512,
+  "columns": 8,
+  "rows": 4,
+  "frameCount": 32,
+  "gaitCycles": 1,
+  "anchor": [
+    256,
+    457.333333
+  ],
+  "durationMs": 2000.0,
+  "sourceFrames0Based": [
+    12,
+    13,
+    15,
+    16,
+    18,
+    19,
+    21,
+    22,
+    24,
+    25,
+    27,
+    28,
+    30,
+    31,
+    33,
+    34,
+    36,
+    37,
+    39,
+    40,
+    42,
+    43,
+    45,
+    46,
+    48,
+    49,
+    51,
+    52,
+    54,
+    55,
+    57,
+    58
+  ],
+  "sourceFrameCount": 107,
+  "sourceFps": 24,
+  "sourceSha256": "87e0fe31c441b1b994373f057243812c027002ba2d2f7706f243566317b60416",
+  "translationsSourcePixels": [
+    [
+      -1,
+      -1
+    ],
+    [
+      -1,
+      -1
+    ],
+    [
+      0,
+      -1
+    ],
+    [
+      0,
+      -1
+    ],
+    [
+      2,
+      1
+    ],
+    [
+      3,
+      1
+    ],
+    [
+      5,
+      1
+    ],
+    [
+      5,
+      -1
+    ],
+    [
+      4,
+      -3
+    ],
+    [
+      4,
+      -2
+    ],
+    [
+      2,
+      -3
+    ],
+    [
+      2,
+      -5
+    ],
+    [
+      0,
+      -5
+    ],
+    [
+      0,
+      -1
+    ],
+    [
+      0,
+      3
+    ],
+    [
+      -1,
+      9
+    ],
+    [
+      -1,
+      9
+    ],
+    [
+      -1,
+      7
+    ],
+    [
+      0,
+      5
+    ],
+    [
+      0,
+      5
+    ],
+    [
+      1,
+      5
+    ],
+    [
+      1,
+      3
+    ],
+    [
+      3,
+      -1
+    ],
+    [
+      4,
+      -1
+    ],
+    [
+      4,
+      -1
+    ],
+    [
+      3,
+      -1
+    ],
+    [
+      2,
+      -1
+    ],
+    [
+      1,
+      -1
+    ],
+    [
+      0,
+      -1
+    ],
+    [
+      0,
+      -1
+    ],
+    [
+      -1,
+      -1
+    ],
+    [
+      -1,
+      -1
+    ]
+  ],
+  "backgroundRejectedFrames0Based": [],
+  "uniqueFrames": 32,
+  "loop": {
+    "start": 12,
+    "length": 48
+  },
+  "suggestedLoop": {
+    "start": 15,
+    "length": 52,
+    "seamMse": 5.4197211284190416e-05,
+    "halfCycleMse": 0.01582866907119751
+  },
+  "registration": "head x and sole y; translation only; shared 2/3 scale",
+  "sourceHeadXRange": [
+    379.0,
+    386.0
+  ],
+  "sourceSoleYRange": [
+    675,
+    691
+  ],
+  "contentBounds": [
+    133,
+    51,
+    364,
+    459
+  ],
+  "reviewRequired": true
+}

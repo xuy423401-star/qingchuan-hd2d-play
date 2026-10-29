@@ -1,0 +1,171 @@
+{
+  "schemaVersion": 2,
+  "direction": "south",
+  "motion": "walk",
+  "file": "south-walk-1ffe06c3.webp",
+  "cellSize": 512,
+  "columns": 8,
+  "rows": 3,
+  "frameCount": 24,
+  "gaitCycles": 1,
+  "anchor": [
+    256,
+    457.333333
+  ],
+  "durationMs": 1000.0,
+  "sourceFrames0Based": [
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47
+  ],
+  "sourceFrameCount": 107,
+  "sourceFps": 24,
+  "sourceSha256": "8ab66f72908989cd2ab41174b681fa6df750f85157cc6891a0f9592caf921b82",
+  "translationsSourcePixels": [
+    [
+      2,
+      -17
+    ],
+    [
+      1,
+      -21
+    ],
+    [
+      0,
+      -25
+    ],
+    [
+      -1,
+      -27
+    ],
+    [
+      -1,
+      -23
+    ],
+    [
+      -2,
+      -19
+    ],
+    [
+      -2,
+      -13
+    ],
+    [
+      -2,
+      -6
+    ],
+    [
+      -2,
+      1
+    ],
+    [
+      -2,
+      -9
+    ],
+    [
+      -1,
+      -13
+    ],
+    [
+      -1,
+      -15
+    ],
+    [
+      0,
+      -18
+    ],
+    [
+      1,
+      -21
+    ],
+    [
+      1,
+      -25
+    ],
+    [
+      3,
+      -29
+    ],
+    [
+      4,
+      -27
+    ],
+    [
+      4,
+      -23
+    ],
+    [
+      4,
+      -17
+    ],
+    [
+      4,
+      -11
+    ],
+    [
+      4,
+      -2
+    ],
+    [
+      4,
+      -7
+    ],
+    [
+      4,
+      -11
+    ],
+    [
+      3,
+      -13
+    ]
+  ],
+  "backgroundRejectedFrames0Based": [],
+  "uniqueFrames": 24,
+  "loop": {
+    "start": 24,
+    "length": 24
+  },
+  "suggestedLoop": {
+    "start": 28,
+    "length": 25,
+    "seamMse": 6.004406532156281e-05,
+    "halfCycleMse": 0.010384558700025082
+  },
+  "registration": "head x and sole y; translation only; shared 2/3 scale",
+  "sourceHeadXRange": [
+    379.0,
+    386.0
+  ],
+  "sourceSoleYRange": [
+    685,
+    717
+  ],
+  "contentBounds": [
+    181,
+    50,
+    329,
+    458
+  ],
+  "reviewRequired": true
+}

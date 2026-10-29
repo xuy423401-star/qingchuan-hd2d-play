@@ -1,0 +1,177 @@
+{
+  "schemaVersion": 2,
+  "direction": "east",
+  "motion": "idle",
+  "file": "east-idle-3b3078d6.webp",
+  "cellSize": 512,
+  "columns": 8,
+  "rows": 3,
+  "frameCount": 24,
+  "gaitCycles": null,
+  "anchor": [
+    256,
+    457.333333
+  ],
+  "durationMs": 1625.0,
+  "sourceFrames0Based": [
+    68,
+    69,
+    71,
+    72,
+    74,
+    76,
+    77,
+    79,
+    81,
+    82,
+    84,
+    85,
+    87,
+    89,
+    90,
+    92,
+    94,
+    95,
+    97,
+    98,
+    100,
+    102,
+    103,
+    105
+  ],
+  "sourceFrameCount": 107,
+  "sourceFps": 24,
+  "sourceSha256": "18b804be43e327ff5c582cf29ce64c6ef094f6f03a9ba009f42535dd51deaa9d",
+  "translationsSourcePixels": [
+    [
+      0,
+      1
+    ],
+    [
+      0,
+      1
+    ],
+    [
+      0,
+      1
+    ],
+    [
+      0,
+      1
+    ],
+    [
+      0,
+      1
+    ],
+    [
+      0,
+      1
+    ],
+    [
+      0,
+      1
+    ],
+    [
+      0,
+      1
+    ],
+    [
+      0,
+      1
+    ],
+    [
+      0,
+      1
+    ],
+    [
+      0,
+      1
+    ],
+    [
+      0,
+      1
+    ],
+    [
+      0,
+      1
+    ],
+    [
+      0,
+      1
+    ],
+    [
+      0,
+      1
+    ],
+    [
+      0,
+      1
+    ],
+    [
+      0,
+      1
+    ],
+    [
+      0,
+      1
+    ],
+    [
+      0,
+      1
+    ],
+    [
+      0,
+      1
+    ],
+    [
+      0,
+      1
+    ],
+    [
+      0,
+      1
+    ],
+    [
+      0,
+      1
+    ],
+    [
+      0,
+      1
+    ]
+  ],
+  "backgroundRejectedFrames0Based": [
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60
+  ],
+  "uniqueFrames": 24,
+  "loop": {
+    "start": 68,
+    "length": 39
+  },
+  "suggestedLoop": {
+    "start": 0,
+    "length": 54
+  },
+  "registration": "head x and sole y; translation only; shared 2/3 scale",
+  "sourceHeadXRange": [
+    379.0,
+    389.0
+  ],
+  "sourceSoleYRange": [
+    685,
+    767
+  ],
+  "contentBounds": [
+    139,
+    58,
+    355,
+    458
+  ],
+  "reviewRequired": true
+}

@@ -1,0 +1,191 @@
+{
+  "schemaVersion": 2,
+  "direction": "northEast",
+  "motion": "walk",
+  "file": "northEast-walk-a66470de.webp",
+  "cellSize": 512,
+  "columns": 8,
+  "rows": 4,
+  "frameCount": 28,
+  "gaitCycles": 1,
+  "anchor": [
+    256,
+    457.333333
+  ],
+  "durationMs": 1166.6666666666667,
+  "sourceFrames0Based": [
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56
+  ],
+  "sourceFrameCount": 107,
+  "sourceFps": 24,
+  "sourceSha256": "584c3378680fd041f4c82ae3ea8d310529e33ded45e4eb9fc2d0894754b84f1b",
+  "translationsSourcePixels": [
+    [
+      0,
+      -3
+    ],
+    [
+      0,
+      -6
+    ],
+    [
+      0,
+      -6
+    ],
+    [
+      0,
+      -4
+    ],
+    [
+      0,
+      -1
+    ],
+    [
+      0,
+      -2
+    ],
+    [
+      0,
+      -2
+    ],
+    [
+      0,
+      -3
+    ],
+    [
+      0,
+      -4
+    ],
+    [
+      0,
+      -6
+    ],
+    [
+      0,
+      -6
+    ],
+    [
+      0,
+      -6
+    ],
+    [
+      0,
+      -7
+    ],
+    [
+      0,
+      -9
+    ],
+    [
+      0,
+      -9
+    ],
+    [
+      0,
+      -11
+    ],
+    [
+      0,
+      -11
+    ],
+    [
+      0,
+      -12
+    ],
+    [
+      0,
+      -9
+    ],
+    [
+      0,
+      -4
+    ],
+    [
+      0,
+      3
+    ],
+    [
+      0,
+      2
+    ],
+    [
+      0,
+      1
+    ],
+    [
+      0,
+      1
+    ],
+    [
+      0,
+      1
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      -1
+    ]
+  ],
+  "backgroundRejectedFrames0Based": [],
+  "uniqueFrames": 28,
+  "loop": {
+    "start": 29,
+    "length": 28
+  },
+  "suggestedLoop": {
+    "start": 29,
+    "length": 57,
+    "seamMse": 0.00031471389229409397,
+    "halfCycleMse": 0.0018954729894176126
+  },
+  "registration": "head x and sole y; translation only; shared 2/3 scale",
+  "sourceHeadXRange": [
+    384.0,
+    384.0
+  ],
+  "sourceSoleYRange": [
+    683,
+    700
+  ],
+  "contentBounds": [
+    151,
+    56,
+    369,
+    459
+  ],
+  "reviewRequired": true
+}

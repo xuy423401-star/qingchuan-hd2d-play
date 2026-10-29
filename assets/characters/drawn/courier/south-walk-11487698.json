@@ -1,0 +1,191 @@
+{
+  "schemaVersion": 2,
+  "direction": "south",
+  "motion": "walk",
+  "file": "south-walk-11487698.webp",
+  "cellSize": 512,
+  "columns": 8,
+  "rows": 4,
+  "frameCount": 28,
+  "gaitCycles": 1,
+  "anchor": [
+    256,
+    457.333333
+  ],
+  "durationMs": 1166.6666666666667,
+  "sourceFrames0Based": [
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75
+  ],
+  "sourceFrameCount": 107,
+  "sourceFps": 24,
+  "sourceSha256": "df07231c0f5980d1629c5dafcf06398c90a0f76b7d27eeb254d7f8611de5f3cc",
+  "translationsSourcePixels": [
+    [
+      -15,
+      -11
+    ],
+    [
+      -14,
+      -7
+    ],
+    [
+      -12,
+      -5
+    ],
+    [
+      -10,
+      -7
+    ],
+    [
+      -8,
+      -7
+    ],
+    [
+      -6,
+      -3
+    ],
+    [
+      -1,
+      -13
+    ],
+    [
+      2,
+      -17
+    ],
+    [
+      4,
+      -19
+    ],
+    [
+      7,
+      -19
+    ],
+    [
+      13,
+      -23
+    ],
+    [
+      16,
+      -21
+    ],
+    [
+      18,
+      -17
+    ],
+    [
+      19,
+      -17
+    ],
+    [
+      20,
+      -11
+    ],
+    [
+      19,
+      -9
+    ],
+    [
+      17,
+      -7
+    ],
+    [
+      16,
+      -3
+    ],
+    [
+      12,
+      -3
+    ],
+    [
+      10,
+      -1
+    ],
+    [
+      7,
+      -7
+    ],
+    [
+      5,
+      -13
+    ],
+    [
+      0,
+      -17
+    ],
+    [
+      -4,
+      -17
+    ],
+    [
+      -7,
+      -17
+    ],
+    [
+      -10,
+      -19
+    ],
+    [
+      -14,
+      -17
+    ],
+    [
+      -15,
+      -13
+    ]
+  ],
+  "backgroundRejectedFrames0Based": [],
+  "uniqueFrames": 28,
+  "loop": {
+    "start": 48,
+    "length": 28
+  },
+  "suggestedLoop": {
+    "start": 21,
+    "length": 28,
+    "seamMse": 8.421439997619018e-05,
+    "halfCycleMse": 0.021663717925548553
+  },
+  "registration": "head x and sole y; translation only; shared 2/3 scale",
+  "sourceHeadXRange": [
+    364.0,
+    399.0
+  ],
+  "sourceSoleYRange": [
+    685,
+    709
+  ],
+  "contentBounds": [
+    168,
+    59,
+    345,
+    458
+  ],
+  "reviewRequired": true
+}

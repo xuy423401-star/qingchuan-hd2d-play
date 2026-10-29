@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "direction": "south",
+  "motion": "idle",
+  "file": "south-idle-b438d55d.webp",
+  "cellSize": 512,
+  "columns": 8,
+  "rows": 3,
+  "frameCount": 24,
+  "gaitCycles": null,
+  "anchor": [
+    256,
+    457.333333
+  ],
+  "durationMs": 1625.0,
+  "sourceFrames0Based": [
+    68,
+    69,
+    71,
+    72,
+    74,
+    76,
+    77,
+    79,
+    81,
+    82,
+    84,
+    85,
+    87,
+    89,
+    90,
+    92,
+    94,
+    95,
+    97,
+    98,
+    100,
+    102,
+    103,
+    105
+  ],
+  "sourceFrameCount": 107,
+  "sourceFps": 24,
+  "sourceSha256": "00f5a36700513dd857632a186af88b8f0136b187b0c6cecabc448ac291515ff1",
+  "translationsSourcePixels": [
+    [
+      1,
+      -1
+    ],
+    [
+      1,
+      -1
+    ],
+    [
+      1,
+      -1
+    ],
+    [
+      1,
+      -1
+    ],
+    [
+      1,
+      -1
+    ],
+    [
+      1,
+      -1
+    ],
+    [
+      1,
+      -1
+    ],
+    [
+      1,
+      -1
+    ],
+    [
+      1,
+      -1
+    ],
+    [
+      1,
+      -1
+    ],
+    [
+      1,
+      -1
+    ],
+    [
+      0,
+      -1
+    ],
+    [
+      1,
+      -1
+    ],
+    [
+      1,
+      -1
+    ],
+    [
+      0,
+      -1
+    ],
+    [
+      0,
+      -1
+    ],
+    [
+      0,
+      -1
+    ],
+    [
+      1,
+      -1
+    ],
+    [
+      1,
+      -1
+    ],
+    [
+      0,
+      -1
+    ],
+    [
+      1,
+      -1
+    ],
+    [
+      0,
+      -1
+    ],
+    [
+      1,
+      -1
+    ],
+    [
+      0,
+      -1
+    ]
+  ],
+  "backgroundRejectedFrames0Based": [
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64
+  ],
+  "uniqueFrames": 24,
+  "loop": {
+    "start": 68,
+    "length": 39
+  },
+  "suggestedLoop": {
+    "start": 0,
+    "length": 52
+  },
+  "registration": "head x and sole y; translation only; shared 2/3 scale",
+  "sourceHeadXRange": [
+    383.0,
+    384.0
+  ],
+  "sourceSoleYRange": [
+    687,
+    767
+  ],
+  "contentBounds": [
+    177,
+    61,
+    339,
+    458
+  ],
+  "reviewRequired": true
+}
