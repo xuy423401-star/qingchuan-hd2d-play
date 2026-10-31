@@ -2,7 +2,7 @@
   "schemaVersion": 2,
   "direction": "east",
   "motion": "walk",
-  "file": "east-walk-d4db0602.webp",
+  "file": "east-walk-d4db0602-despill.webp",
   "cellSize": 512,
   "columns": 8,
   "rows": 4,

@@ -2,7 +2,7 @@
   "schemaVersion": 2,
   "direction": "north",
   "motion": "walk",
-  "file": "north-walk-e1c64b08.webp",
+  "file": "north-walk-e1c64b08-despill.webp",
   "cellSize": 512,
   "columns": 8,
   "rows": 4,
