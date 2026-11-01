@@ -2,7 +2,7 @@
   "schemaVersion": 2,
   "direction": "west",
   "motion": "walk",
-  "file": "west-walk-2306199b-despill.webp",
+  "file": "west-walk-2306199b-despill-sizefix.webp",
   "cellSize": 512,
   "columns": 8,
   "rows": 4,
@@ -202,10 +202,15 @@
     687
   ],
   "contentBounds": [
-    144,
-    55,
-    361,
-    459
+    140,
+    49,
+    365,
+    462
   ],
-  "reviewRequired": true
+  "reviewRequired": true,
+  "sizeCorrection": {
+    "targetMedianHeight": 400,
+    "method": "fixed-sole uniform clip scale",
+    "source": "west-walk-2306199b-despill.webp"
+  }
 }

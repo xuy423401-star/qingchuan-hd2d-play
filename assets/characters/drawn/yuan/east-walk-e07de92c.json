@@ -2,7 +2,7 @@
   "schemaVersion": 2,
   "direction": "east",
   "motion": "walk",
-  "file": "east-walk-e07de92c-despill.webp",
+  "file": "east-walk-e07de92c-despill-sizefix.webp",
   "cellSize": 512,
   "columns": 8,
   "rows": 4,
@@ -202,10 +202,15 @@
     689
   ],
   "contentBounds": [
-    157,
-    54,
-    361,
-    459
+    154,
+    48,
+    365,
+    462
   ],
-  "reviewRequired": true
+  "reviewRequired": true,
+  "sizeCorrection": {
+    "targetMedianHeight": 400,
+    "method": "fixed-sole uniform clip scale",
+    "source": "east-walk-e07de92c-despill.webp"
+  }
 }

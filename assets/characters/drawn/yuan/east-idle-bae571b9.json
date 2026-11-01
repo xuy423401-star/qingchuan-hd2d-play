@@ -2,7 +2,7 @@
   "schemaVersion": 2,
   "direction": "east",
   "motion": "idle",
-  "file": "east-idle-bae571b9-despill.webp",
+  "file": "east-idle-bae571b9-despill-sizefix.webp",
   "cellSize": 512,
   "columns": 8,
   "rows": 3,
@@ -160,10 +160,15 @@
     693
   ],
   "contentBounds": [
-    161,
-    55,
-    304,
-    458
+    159,
+    56,
+    306,
+    461
   ],
-  "reviewRequired": true
+  "reviewRequired": true,
+  "sizeCorrection": {
+    "targetMedianHeight": 400,
+    "method": "fixed-sole uniform clip scale",
+    "source": "east-idle-bae571b9-despill.webp"
+  }
 }

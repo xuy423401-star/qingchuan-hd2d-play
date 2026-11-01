@@ -2,7 +2,7 @@
   "schemaVersion": 2,
   "direction": "north",
   "motion": "idle",
-  "file": "north-idle-10c25088-despill.webp",
+  "file": "north-idle-10c25088-despill-sizefix.webp",
   "cellSize": 512,
   "columns": 8,
   "rows": 3,
@@ -160,10 +160,15 @@
     741
   ],
   "contentBounds": [
-    168,
-    9,
-    339,
-    458
+    172,
+    55,
+    336,
+    461
   ],
-  "reviewRequired": true
+  "reviewRequired": true,
+  "sizeCorrection": {
+    "targetMedianHeight": 400,
+    "method": "fixed-sole affine; per-frame back-idle zoom correction",
+    "source": "north-idle-10c25088-despill.webp"
+  }
 }

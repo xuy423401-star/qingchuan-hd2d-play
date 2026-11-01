@@ -2,7 +2,7 @@
   "schemaVersion": 2,
   "direction": "north",
   "motion": "walk",
-  "file": "north-walk-e9fbfc1b-despill.webp",
+  "file": "north-walk-e9fbfc1b-despill-sizefix.webp",
   "cellSize": 512,
   "columns": 8,
   "rows": 4,
@@ -182,10 +182,15 @@
     709
   ],
   "contentBounds": [
-    174,
-    59,
-    333,
-    458
+    170,
+    52,
+    337,
+    462
   ],
-  "reviewRequired": true
+  "reviewRequired": true,
+  "sizeCorrection": {
+    "targetMedianHeight": 400,
+    "method": "fixed-sole uniform clip scale",
+    "source": "north-walk-e9fbfc1b-despill.webp"
+  }
 }

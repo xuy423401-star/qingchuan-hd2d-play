@@ -2,7 +2,7 @@
   "schemaVersion": 2,
   "direction": "south",
   "motion": "walk",
-  "file": "south-walk-f8291674-despill.webp",
+  "file": "south-walk-f8291674-despill-sizefix.webp",
   "cellSize": 512,
   "columns": 8,
   "rows": 4,
@@ -202,10 +202,15 @@
     709
   ],
   "contentBounds": [
-    175,
-    55,
-    341,
-    458
+    173,
+    53,
+    343,
+    462
   ],
-  "reviewRequired": true
+  "reviewRequired": true,
+  "sizeCorrection": {
+    "targetMedianHeight": 400,
+    "method": "fixed-sole uniform clip scale",
+    "source": "south-walk-f8291674-despill.webp"
+  }
 }

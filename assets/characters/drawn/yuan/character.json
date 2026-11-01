@@ -8,7 +8,7 @@
         "schemaVersion": 2,
         "direction": "south",
         "motion": "idle",
-        "file": "south-idle-9762f49e-despill.webp",
+        "file": "south-idle-9762f49e-despill-sizefix.webp",
         "cellSize": 512,
         "columns": 8,
         "rows": 3,
@@ -179,18 +179,23 @@
           767
         ],
         "contentBounds": [
-          184,
-          63,
-          333,
-          458
+          180,
+          56,
+          337,
+          461
         ],
-        "reviewRequired": true
+        "reviewRequired": true,
+        "sizeCorrection": {
+          "targetMedianHeight": 400,
+          "method": "fixed-sole uniform clip scale",
+          "source": "south-idle-9762f49e-despill.webp"
+        }
       },
       "walk": {
         "schemaVersion": 2,
         "direction": "south",
         "motion": "walk",
-        "file": "south-walk-f8291674-despill.webp",
+        "file": "south-walk-f8291674-despill-sizefix.webp",
         "cellSize": 512,
         "columns": 8,
         "rows": 4,
@@ -390,12 +395,17 @@
           709
         ],
         "contentBounds": [
-          175,
-          55,
-          341,
-          458
+          173,
+          53,
+          343,
+          462
         ],
-        "reviewRequired": true
+        "reviewRequired": true,
+        "sizeCorrection": {
+          "targetMedianHeight": 400,
+          "method": "fixed-sole uniform clip scale",
+          "source": "south-walk-f8291674-despill.webp"
+        }
       }
     },
     "west": {
@@ -403,7 +413,7 @@
         "schemaVersion": 2,
         "direction": "west",
         "motion": "idle",
-        "file": "west-idle-da21c211-despill.webp",
+        "file": "west-idle-da21c211-despill-sizefix.webp",
         "cellSize": 512,
         "columns": 8,
         "rows": 3,
@@ -561,18 +571,23 @@
           696
         ],
         "contentBounds": [
-          206,
+          203,
           56,
-          354,
-          458
+          356,
+          461
         ],
-        "reviewRequired": true
+        "reviewRequired": true,
+        "sizeCorrection": {
+          "targetMedianHeight": 400,
+          "method": "fixed-sole uniform clip scale",
+          "source": "west-idle-da21c211-despill.webp"
+        }
       },
       "walk": {
         "schemaVersion": 2,
         "direction": "west",
         "motion": "walk",
-        "file": "west-walk-2306199b-despill.webp",
+        "file": "west-walk-2306199b-despill-sizefix.webp",
         "cellSize": 512,
         "columns": 8,
         "rows": 4,
@@ -772,12 +787,17 @@
           687
         ],
         "contentBounds": [
-          144,
-          55,
-          361,
-          459
+          140,
+          49,
+          365,
+          462
         ],
-        "reviewRequired": true
+        "reviewRequired": true,
+        "sizeCorrection": {
+          "targetMedianHeight": 400,
+          "method": "fixed-sole uniform clip scale",
+          "source": "west-walk-2306199b-despill.webp"
+        }
       }
     },
     "north": {
@@ -785,7 +805,7 @@
         "schemaVersion": 2,
         "direction": "north",
         "motion": "idle",
-        "file": "north-idle-10c25088-despill.webp",
+        "file": "north-idle-10c25088-despill-sizefix.webp",
         "cellSize": 512,
         "columns": 8,
         "rows": 3,
@@ -943,18 +963,23 @@
           741
         ],
         "contentBounds": [
-          168,
-          9,
-          339,
-          458
+          172,
+          55,
+          336,
+          461
         ],
-        "reviewRequired": true
+        "reviewRequired": true,
+        "sizeCorrection": {
+          "targetMedianHeight": 400,
+          "method": "fixed-sole affine; per-frame back-idle zoom correction",
+          "source": "north-idle-10c25088-despill.webp"
+        }
       },
       "walk": {
         "schemaVersion": 2,
         "direction": "north",
         "motion": "walk",
-        "file": "north-walk-e9fbfc1b-despill.webp",
+        "file": "north-walk-e9fbfc1b-despill-sizefix.webp",
         "cellSize": 512,
         "columns": 8,
         "rows": 4,
@@ -1134,12 +1159,17 @@
           709
         ],
         "contentBounds": [
-          174,
-          59,
-          333,
-          458
+          170,
+          52,
+          337,
+          462
         ],
-        "reviewRequired": true
+        "reviewRequired": true,
+        "sizeCorrection": {
+          "targetMedianHeight": 400,
+          "method": "fixed-sole uniform clip scale",
+          "source": "north-walk-e9fbfc1b-despill.webp"
+        }
       }
     },
     "east": {
@@ -1147,7 +1177,7 @@
         "schemaVersion": 2,
         "direction": "east",
         "motion": "idle",
-        "file": "east-idle-bae571b9-despill.webp",
+        "file": "east-idle-bae571b9-despill-sizefix.webp",
         "cellSize": 512,
         "columns": 8,
         "rows": 3,
@@ -1305,18 +1335,23 @@
           693
         ],
         "contentBounds": [
-          161,
-          55,
-          304,
-          458
+          159,
+          56,
+          306,
+          461
         ],
-        "reviewRequired": true
+        "reviewRequired": true,
+        "sizeCorrection": {
+          "targetMedianHeight": 400,
+          "method": "fixed-sole uniform clip scale",
+          "source": "east-idle-bae571b9-despill.webp"
+        }
       },
       "walk": {
         "schemaVersion": 2,
         "direction": "east",
         "motion": "walk",
-        "file": "east-walk-e07de92c-despill.webp",
+        "file": "east-walk-e07de92c-despill-sizefix.webp",
         "cellSize": 512,
         "columns": 8,
         "rows": 4,
@@ -1516,12 +1551,17 @@
           689
         ],
         "contentBounds": [
-          157,
-          54,
-          361,
-          459
+          154,
+          48,
+          365,
+          462
         ],
-        "reviewRequired": true
+        "reviewRequired": true,
+        "sizeCorrection": {
+          "targetMedianHeight": 400,
+          "method": "fixed-sole uniform clip scale",
+          "source": "east-walk-e07de92c-despill.webp"
+        }
       }
     }
   },
