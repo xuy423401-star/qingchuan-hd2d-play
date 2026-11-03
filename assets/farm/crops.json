@@ -2,41 +2,81 @@
   "flower": {
     "accepted": true,
     "file": "flower-growth.webp",
-    "frames": 8,
+    "frames": 88,
     "columns": 8,
-    "rows": 1,
-    "cell": 256,
-    "source": "local-painted-growth-v001",
-    "review": "transparent RGBA; fixed root (128,232); eight intentional stages"
+    "rows": 11,
+    "cell": 512,
+    "growthFrames": 64,
+    "idleStart": 64,
+    "idleFrames": 24,
+    "idleFps": 12,
+    "anchor": [
+      256,
+      470
+    ],
+    "source": "wangp-h3-native-video-r003",
+    "sourceVideo": "art/farm/crops/r003/flower_r003.mp4",
+    "sourceSha256": "f71a5f17f6197ac21b027421bdae34c548e04c22274e73da2d6b1472c989bcb7",
+    "review": "Reviewed native timelapse and keyed contact sheets: species, chronological growth, fixed stem root, clear background. Tomato soil removed; carrot shoulder buried. Mature range is separate from growth."
   },
   "carrot": {
     "accepted": true,
     "file": "carrot-growth.webp",
-    "frames": 8,
+    "frames": 88,
     "columns": 8,
-    "rows": 1,
-    "cell": 256,
-    "source": "local-painted-growth-v001",
-    "review": "transparent RGBA; fixed root (128,232); eight intentional stages"
+    "rows": 11,
+    "cell": 512,
+    "growthFrames": 64,
+    "idleStart": 64,
+    "idleFrames": 24,
+    "idleFps": 12,
+    "anchor": [
+      256,
+      470
+    ],
+    "source": "wangp-h3-native-video-r003",
+    "sourceVideo": "art/farm/crops/r003/carrot_r003.mp4",
+    "sourceSha256": "420da5e21da1cb4f5d84404be0c139ca187bd15d4f8fbefacbb6696948a0ece2",
+    "review": "Reviewed native timelapse and keyed contact sheets: species, chronological growth, fixed stem root, clear background. Tomato soil removed; carrot shoulder buried. Mature range is separate from growth."
   },
   "tomato": {
     "accepted": true,
     "file": "tomato-growth.webp",
-    "frames": 8,
+    "frames": 76,
     "columns": 8,
-    "rows": 1,
-    "cell": 256,
-    "source": "local-painted-growth-v001",
-    "review": "transparent RGBA; fixed root (128,232); eight intentional stages"
+    "rows": 10,
+    "cell": 512,
+    "growthFrames": 64,
+    "idleStart": 64,
+    "idleFrames": 12,
+    "idleFps": 12,
+    "anchor": [
+      256,
+      470
+    ],
+    "source": "wangp-h3-native-video-r003",
+    "sourceVideo": "art/farm/crops/r003/tomato_r003.mp4",
+    "sourceSha256": "c60d211ffa0cbcb64358f1110e4564290f0c3a4993fb03c6f5e152ff814a1212",
+    "review": "Reviewed native timelapse and keyed contact sheets: species, chronological growth, fixed stem root, clear background. Tomato soil removed; carrot shoulder buried. Mature range is separate from growth."
   },
   "wheat": {
     "accepted": true,
     "file": "wheat-growth.webp",
-    "frames": 8,
+    "frames": 88,
     "columns": 8,
-    "rows": 1,
-    "cell": 256,
-    "source": "local-painted-growth-v001",
-    "review": "transparent RGBA; fixed root (128,232); eight intentional stages"
+    "rows": 11,
+    "cell": 512,
+    "growthFrames": 64,
+    "idleStart": 64,
+    "idleFrames": 24,
+    "idleFps": 12,
+    "anchor": [
+      256,
+      470
+    ],
+    "source": "wangp-h3-native-video-r003",
+    "sourceVideo": "art/farm/crops/r003/wheat_r003.mp4",
+    "sourceSha256": "f8336f47bc2a06cb2aae982678fb1d7e04ba4e225aa0d7afa6e7faa854344fe4",
+    "review": "Reviewed native timelapse and keyed contact sheets: species, chronological growth, fixed stem root, clear background. Tomato soil removed; carrot shoulder buried. Mature range is separate from growth."
   }
 }
